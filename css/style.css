@@ -8,19 +8,25 @@ body, html {
     background-size: cover;
   }
 
-  hr {
+  /* hr {
     border-color: #F05F44;
     border-width: 4px;
     max-width: 65px;
+  } */
+
+  .buffer {
+    height: 10rem;
   }
 
   h1 {
     font-size: 5rem;
     color: #e2dbdb;
+    padding-top: 90px;
   }
 
   .btn {
     font-weight: 700;
+    padding-top: 90px;
     border-radius: 300px;
   }
 
